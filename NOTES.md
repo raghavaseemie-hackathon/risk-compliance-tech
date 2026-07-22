@@ -5,3 +5,4 @@ Changelog of work landed against Jira issues.
 - chore/RISK-8: Migrate CI pipeline from Jenkins to GitHub Actions
 - feat/RISK-18: Validate MaRisk outsourcing register export
 - feat/RISK-13: Reduce alert triage time with automated risk scoring
+- chore/RISK-11: Set up synthetic monitoring for critical customer journeys
